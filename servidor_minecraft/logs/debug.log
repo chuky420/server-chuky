@@ -547,3 +547,24 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Jul2025 17:35:47.486] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
 [22Jul2025 17:35:47.536] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
 [22Jul2025 17:35:47.587] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@72ec941[id=<null>,name=luisbgry,properties={},legacy=false] (/100.68.86.76:62651) lost connection: Disconnected
+[22Jul2025 17:36:50.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 17:36:50.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 17:39:52.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Jul2025 17:39:52.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ls mods/<--[HERE]
+[22Jul2025 17:40:09.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Jul2025 17:40:09.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ls mods/<--[HERE]
+[22Jul2025 17:41:50.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 17:41:50.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 17:44:12.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Jul2025 17:44:12.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ls mods/ > lista_mods.txt<--[HERE]
+[22Jul2025 17:44:38.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Jul2025 17:44:38.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cat lista_mods.txt<--[HERE]
+[22Jul2025 17:45:03.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Jul2025 17:45:03.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cat lista_mod<--[HERE]
+[22Jul2025 17:45:09.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Jul2025 17:45:09.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cat list<--[HERE]
+[22Jul2025 17:45:12.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Jul2025 17:45:12.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cat<--[HERE]
+[22Jul2025 17:46:30.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Jul2025 17:46:30.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ls mods/ > lista_mods.txt
+cat lista_mods.txt<--[HERE]
